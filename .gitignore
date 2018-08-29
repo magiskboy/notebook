@@ -3,3 +3,5 @@
   !.git
   *.o
   tmp
+  logs
+  .ipynb_checkpoints
