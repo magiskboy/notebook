@@ -1,7 +1,7 @@
-  *~
-  .*
-  !.git
-  *.o
-  tmp
-  logs
-  .ipynb_checkpoints
+*~
+.*
+!.git
+*.o
+tmp
+logs
+.ipynb_checkpoints
